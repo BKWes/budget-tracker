@@ -40,5 +40,11 @@
 			"sizes": "72x72",
 			"type": "image/png"
 		}
-	]
+	],
+    "name": "Budget Tracker",
+    "short_name": "Budget",
+    "display": "standalone",
+    "description": "An app that can be used to track a budget on or offline",
+    "background_color": "#01579b",
+    "theme_color": "#ffffff"
 }
